@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-
+{/* about team section start....... */}
 <section class="bg-white dark:bg-white-50 pb-16">
             <div class="container px-6 py-10 mx-auto">
                 <h1 class="text-3xl font-bold text-center text-black-900 capitalize lg:text-4xl dark:text-black">Our Executive <span className='text-green-600'>Team</span> </h1>
@@ -168,7 +168,7 @@ const About = () => {
             </div>
         </section>
 <hr className='py-9 ' />
-            {/* ............. */}
+            {/* ........middle section..... */}
             <section className='py-8'>
             <h1 class="mb-3 text-4xl font-bold text-black-900 md:text-5xl md:leading-tight md:font-extrabold py-8">Why <span className='text-green-600'> We?</span></h1>
             <p class="mb-6 text-lg text-black-500 md:text-xl md:leading-normal">
@@ -333,10 +333,7 @@ const About = () => {
           </section>
           <hr />
 
-        {/* ............ */}
-        
-      
-        {/* ............ */}
+        {/* ......last section...... */}
         <section class="px-4 py-32 mx-auto max-w-7xl">
   <div class="w-full mx-auto text-left md:w-11/12 xl:w-8/12 md:text-center">
     <h1 class="mb-3 text-4xl font-bold text-black-900 md:text-5xl md:leading-tight md:font-extrabold">A secure, faster <span className='text-green-600'> way to transfer.</span></h1>

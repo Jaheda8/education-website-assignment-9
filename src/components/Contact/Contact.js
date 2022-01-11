@@ -4,7 +4,7 @@ import map from '../../images/map.jpg'
 const Contact = () => {
     return (
         <div>
-       
+       {/* ......contact form start */}
             <section className='py-16'>
             <div class="flex min-h-screen overflow-hidden">
               <div class="
@@ -160,6 +160,7 @@ const Contact = () => {
                   </div>
                 </div>
               </div>
+              {/* map image............. */}
               <div class="relative flex-1 hidden w-0 overflow-hidden lg:block">
                 <img class="absolute inset-0 object-cover w-full h-full" src={map} alt=""/>
               </div>

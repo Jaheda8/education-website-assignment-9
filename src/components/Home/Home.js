@@ -25,6 +25,7 @@ LEARNING SYSTEM</h1>
 </div>  
 {/* header part end...........    */}
 
+{/* ....service section */}
 <section>
     <h1 className='text-4xl pt-16 font-semibold'>Our <span className='text-green-600'> Services</span></h1>
    
@@ -112,6 +113,8 @@ LEARNING SYSTEM</h1>
           <hr />
 {/* .......... */}
 
+{/* ......Another Section  */}
+
           <section class="px-4 py-24 mx-auto max-w-7xl">
   <div class="grid items-center grid-cols-1 mb-24 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
     <div>
@@ -139,7 +142,7 @@ LEARNING SYSTEM</h1>
   </div>
 </section>
 
-          {/* ............. */}
+          {/* .......end...... */}
 
        
 </div>

@@ -4,6 +4,7 @@ import notfound from '../../images/notfound.png'
 const NotFound = () => {
     return (
         <div>
+          {/* .....not found section */}
             <section class="px-4 py-24 mx-auto max-w-7xl">
   <div class="w-full mx-auto text-center lg:w-2/3">
     <h1 class="mb-4 text-6xl font-thin text-gray-900">404</h1>

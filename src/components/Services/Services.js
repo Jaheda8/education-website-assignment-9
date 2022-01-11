@@ -10,6 +10,7 @@ const Services = () => {
         .then(data=>setServices(data))
     },[])
     return (
+        // .....services section
         <section className='py-8'>
             <h1 className='text-4xl font-bold py-9'>Our  <span className='text-green-600'> Service</span></h1>
             <p className='pb-4'>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
